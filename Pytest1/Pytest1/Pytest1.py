@@ -14,7 +14,6 @@ name="ada lovelace"
 print(name.upper()) #全部大写
 print(name.lower()) #全部小写
 
-
 first_name="ada"
 last_name="lovelace"
 full_name=first_name+" "+last_name
