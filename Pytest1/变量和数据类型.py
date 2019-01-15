@@ -1,4 +1,4 @@
-'''
+
 print ("hello word")
 
 
@@ -43,16 +43,24 @@ lanuage2=" pyhon "
 print(lanuage2.rstrip()) #去除末尾空格
 print(lanuage2.lstrip()) #去除开头空格
 print(lanuage2.strip())  #去除2端空格
-'''
+
 
 print(2+3)
 print(3-2)
 print(2*3)
 print(4/2)
 
+print(0.1+0.1)
+print(0.2-0.1)
+print(2*0.1)
+print(2/0.1)
+print(3/2)
 
 
-
+#str类型
+age=23
+message="happy "+str(age)+"rd birthday"
+print(message)
 
 
 
